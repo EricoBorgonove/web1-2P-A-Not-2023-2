@@ -1,0 +1,13 @@
+*{
+    background-color: aqua;
+}
+nav, a{
+    background-color: blue;
+}
+.h3Nomes{ 
+    font-size: 35px;
+    color: red;
+}
+#texto{
+    font-family: Arial, Helvetica, sans-serif;
+}

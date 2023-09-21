@@ -1,0 +1,45 @@
+/*.elemento{
+    width: 350px;
+    border-radius: 70% 0% 70% 70%;
+
+}
+.elemento1, .div1{
+    border: 1px solid blue;
+    border-radius: 70% 0% 70% 70%;
+    width: 350px;
+    height: 300px;
+    background-color: rgb(12, 12, 103);
+    text-align: center;
+    color: white;
+}
+p, div, .div1, #idSpan{
+    margin-top: 30px;
+}*/
+
+nav li a{
+    background-color: aqua;
+    color: white;
+}
+.menu{
+    background-color: antiquewhite;
+}
+
+.menu1{
+    background-color: green;
+}
+
+/*
+botoes --> button, submit, reset*/
+
+/* sobre GIT
+git  branch -M main
+git init
+git push
+git add .
+git commit -m ""
+git pull
+git clone
+git remote add origin
+git status
+
+*/
